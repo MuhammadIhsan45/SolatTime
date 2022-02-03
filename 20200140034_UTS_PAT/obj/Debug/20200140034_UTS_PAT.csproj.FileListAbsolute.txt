@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\bin\Debug\20200140034_UTS_PAT.exe.config
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\bin\Debug\20200140034_UTS_PAT.exe
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\bin\Debug\20200140034_UTS_PAT.pdb
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\_20200140034_UTS_PAT.Form1.resources
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\_20200140034_UTS_PAT.Properties.Resources.resources
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.csproj.CopyComplete
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.exe
+C:\Users\hp\source\repos\20200140034_UTS_PAT\20200140034_UTS_PAT\obj\Debug\20200140034_UTS_PAT.pdb
